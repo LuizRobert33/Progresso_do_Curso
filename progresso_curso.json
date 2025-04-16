@@ -1,0 +1,41 @@
+{
+    "disciplinas_feitas": {
+        "1": {
+            "obrigatorias": [
+                {
+                    "nome": "Logica de Programação",
+                    "carga": 100
+                },
+                {
+                    "nome": "Logica_de_Programação",
+                    "carga": 100
+                }
+            ]
+        },
+        "2": {
+            "obrigatorias": []
+        },
+        "3": {
+            "obrigatorias": []
+        },
+        "4": {
+            "obrigatorias": []
+        },
+        "5": {
+            "obrigatorias": []
+        },
+        "6": {
+            "obrigatorias": []
+        },
+        "7": {
+            "obrigatorias": []
+        },
+        "8": {
+            "obrigatorias": []
+        },
+        "9": {
+            "obrigatorias": []
+        }
+    },
+    "optativas_feitas": []
+}
