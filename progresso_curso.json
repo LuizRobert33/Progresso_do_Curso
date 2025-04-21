@@ -3,23 +3,86 @@
         "1": {
             "obrigatorias": [
                 {
-                    "nome": "Logica de Programação",
+                    "nome": "Ingles_Intrumental",
+                    "carga": 60
+                },
+                {
+                    "nome": "ICC",
+                    "carga": 60
+                },
+                {
+                    "nome": "Logica_de_Programacao",
                     "carga": 100
                 },
                 {
-                    "nome": "Logica_de_Programação",
-                    "carga": 100
+                    "nome": "Logica_de_Matematica",
+                    "carga": 80
                 }
             ]
         },
         "2": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "Laboratorio_de_programacao",
+                    "carga": 60
+                },
+                {
+                    "nome": "Matematica_Discreta",
+                    "carga": 80
+                },
+                {
+                    "nome": "Circuitos_Digitais",
+                    "carga": 60
+                },
+                {
+                    "nome": "Algebra_Linear",
+                    "carga": 60
+                },
+                {
+                    "nome": "LP1",
+                    "carga": 60
+                }
+            ]
         },
         "3": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "Introdução_a_Estatistica",
+                    "carga": 60
+                },
+                {
+                    "nome": "Fisica",
+                    "carga": 80
+                },
+                {
+                    "nome": "Arquitetura_de_Computadores",
+                    "carga": 80
+                },
+                {
+                    "nome": "Estrutura_de_Dados",
+                    "carga": 100
+                }
+            ]
         },
         "4": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "MTC",
+                    "carga": 60
+                },
+                {
+                    "nome": "T.I",
+                    "carga": 60
+                },
+                {
+                    "nome": "POO",
+                    "carga": 100
+                },
+                {
+                    "nome": "BD1",
+                    "carga": 80
+                }
+            ]
         },
         "5": {
             "obrigatorias": []
@@ -28,14 +91,41 @@
             "obrigatorias": []
         },
         "7": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "Computação_e_Sociedade",
+                    "carga": 60
+                }
+            ]
         },
         "8": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "Administracao_de_Sistema_e_Servico",
+                    "carga": 60
+                }
+            ]
         },
         "9": {
             "obrigatorias": []
         }
     },
-    "optativas_feitas": []
+    "optativas_feitas": [
+        {
+            "nome": "Introducao_Adm",
+            "carga": 60
+        },
+        {
+            "nome": "Matematica_Comercial_e_Financeira",
+            "carga": 60
+        },
+        {
+            "nome": "Desafio_de_Programacao",
+            "carga": 60
+        },
+        {
+            "nome": "Introducao_a_Telecomunicacao",
+            "carga": 60
+        }
+    ]
 }
