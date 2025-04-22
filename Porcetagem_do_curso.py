@@ -132,7 +132,7 @@ def tabela_progresso():
 
     print(f"\nOptativas: {len(optativas_feitas)}/7 optativas feitas.")
 
-# Menu principal
+# Menu 
 def menu():
     while True:
         print("\n=== Menu ===")
