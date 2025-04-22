@@ -5,7 +5,7 @@ ARQUIVO_DADOS = "progresso_curso.json"
 
 # Inicializando as variáveis
 DISCIPLINAS_POR_SEMESTRE = {
-    1: 5, 2: 6, 3: 5, 4: 6, 5: 4, 6: 4, 7: 4, 8: 3, 9: 1
+    1: 5, 2: 6, 3: 5, 4: 6, 5: 4, 6: 4, 7: 4, 8: 3, 9: 2
 }
 
 # Carregar dados do arquivo (ou inicializar vazio)
