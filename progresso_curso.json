@@ -81,6 +81,10 @@
                 {
                     "nome": "BD1",
                     "carga": 80
+                },
+                {
+                    "nome": "Estatistica com Apoio Computacional",
+                    "carga": 60
                 }
             ]
         },
