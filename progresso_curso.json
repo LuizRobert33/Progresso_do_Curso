@@ -85,16 +85,32 @@
                 {
                     "nome": "Estatistica com Apoio Computacional",
                     "carga": 60
+                },
+                {
+                    "nome": "Grafos",
+                    "carga": 60
                 }
+
+                
+                
             ]
         },
         "5": {
-            "obrigatorias": []
+            "obrigatorias": [
+                {
+                    "nome": "computação grafica",
+                    "carga": 60
+                }
+            ]
         },
         "6": {
             "obrigatorias": [
                 {
                     "nome": "Sistemas Operacionais",
+                    "carga": 80
+                },
+                {
+                    "nome": " REDES DE COMPUTADORES",
                     "carga": 80
                 }
             ]
@@ -134,6 +150,10 @@
         },
         {
             "nome": "Introducao_a_Telecomunicacao",
+            "carga": 60
+        },
+        {
+            "nome": "Estagio",
             "carga": 60
         }
     ]
